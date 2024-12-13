@@ -1,5 +1,5 @@
 # mini-bank-spring-mvc
-This mini bank project was developed by Spring Model-View-Controller method. 
+This mini bank project was developed by using Spring Model-View-Controller method. 
 For database, MySql database was used all together with hibernate framework.
 This is a maven project. 
 JDK=11.
